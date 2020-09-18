@@ -1,0 +1,14 @@
+{
+  "name": "font",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "node index.js",
+    "serve": "serve dist"
+  },
+  "dependencies": {
+    "serve": "^11.3.2",
+    "svg-to-iconfont": "^1.1.5"
+  }
+}
